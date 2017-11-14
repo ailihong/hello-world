@@ -1,2 +1,4 @@
 # hello-world
-ideas, resources
+
+hello!
+I like github,its great.
